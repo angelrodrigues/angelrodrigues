@@ -7,7 +7,7 @@
 - 👋 Me chamo Angelina Rodrigues, tenho 25 anos.
 -  📌 De Fortaleza, **Ceará**, Brasil. 
 -  💼 Atualmente trabalho na área de testes de software. 
--  🎓 Atualmente estou no 5º semestre do curso Sistemas de Infomação. 
+-  🎓 Cursando 5º semestre do curso Sistemas de Infomação. 
 
 <hr>
 
